@@ -112,3 +112,9 @@ The following data cleaning steps were performed:
 * Focus marketing campaigns in April–May to capitalize on peak season demand
 * High average tenure (44 months) suggests a loyal customer base — a loyalty rewards program could further improve retention
 
+  ## Dashboard Preview
+[Total Basket](01_total_basket.png)
+[Total Customers](02_total_customer.png)
+[Gender Distribution](04_gender.png)
+[Top 10 Customers](07_top_10_customers.png)
+
