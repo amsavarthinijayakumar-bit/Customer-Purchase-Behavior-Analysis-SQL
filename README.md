@@ -78,26 +78,38 @@ The following data cleaning steps were performed:
 
 * Yearly purchase trends
 * Monthly purchase trends
+  
+### Key Insights
 
-## Key Insights
-
-* Customer demographics were analyzed using gender and age distributions.
-* Top-performing products were identified using purchase quantities.
-* Customer purchasing behavior was analyzed through order frequency and basket quantities.
-* Yearly and monthly trends revealed changes in purchasing activity over time.
-* Data cleaning improved data quality and ensured more reliable analysis.
-
-## Files Included
-
-* SQL_Queries.sql
-* README.md
-* Screenshots/
-
-## Tools Used
-
-* MySQL
-* MySQL Workbench
+### Customer Demographics
 
 
+Total unique customers analyzed: 15,000
+Average customer age: 28.56 years
+Average male age: 27.6 years | Average female age: 31.64 years
+Female customers are on average 4 years older than male customers
+Customer tenure ranges from 4 to 133 months, with an average of 44.39 months
+Long average tenure (~3.7 years) indicates strong customer retention
+
+### Purchasing Behavior
+
+
+Total basket transactions: 32,306
+Total unique products purchased: 13,161
+Highest quantity purchased in a single year: 32,306 units (2019)
+2019 recorded the most basket transactions: 1,500 baskets
+
+
+### Monthly Trends
+
+
+May recorded the highest monthly purchases with 19,209 transactions
+June followed with 13,097 transactions
+May–June is the peak buying season — suggesting potential for targeted promotions during this period
+
+### Business Recommendations
+
+Focus marketing campaigns in April–May to capitalize on peak season demand
+High average tenure (44 months) suggests a loyal customer base — a loyalty rewards program could further improve retention
 Amsahini
 Aspiring Data Analyst
