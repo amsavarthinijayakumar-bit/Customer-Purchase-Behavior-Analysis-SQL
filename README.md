@@ -5,8 +5,8 @@
 This project analyzes customer demographics and purchasing behavior using SQL. The objective is to clean the data, perform exploratory data analysis, and generate business insights from customer and basket transaction datasets.
 
 ## Dataset
-
-The project uses two datasets:
+ Source: Kaggle
+ Scale: 15,000 customer records | 20,000 transaction records
 
 ### Customer Details
 
