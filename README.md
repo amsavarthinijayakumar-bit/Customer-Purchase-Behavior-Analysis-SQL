@@ -6,7 +6,7 @@ This project analyzes customer demographics and purchasing behavior using SQL. T
 
 ## Dataset
  Source: Kaggle
- Scale: 15,000 customer records | 20,000 transaction records
+ Scale: 20,000 customer records | 15,000 transaction records
 
 ### Customer Details
 
